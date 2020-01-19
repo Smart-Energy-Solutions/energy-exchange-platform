@@ -146,5 +146,7 @@ $ npm run styleguide:build
 - login/register fix
 - New login/singup page
 - sourcce code fix
+- Smart Contracts
+- API
 
 
