@@ -4,7 +4,6 @@
 ### PowerChain blockchain-based energy trading client frontend
 
 
-
 <p align="left">
    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><br />
    <a href="https://codecov.io/gh/archik408/trading-platform-client"><img src="https://codecov.io/gh/archik408/trading-platform-client/branch/master/graph/badge.svg" alt="Codecov Badge"></a>
@@ -38,11 +37,6 @@ First step is to install all application dependencies:
 ```
 $ npm install
 ```
-npm install error fix 
-```
-$ curl -L https://www.npmjs.com/install.sh | sh
-
-
 You have possibility to start standalone front-and app with local proxy server (by default `http://localhost:3000`):
 ```
 $ npm run start
@@ -146,3 +140,11 @@ $ npm run styleguide:build
 ``` 
 
 ![Docs Screen](./media/docs.png)
+
+# TODO
+
+- login/register fix
+- New login/singup page
+- sourcce code fix
+
+
